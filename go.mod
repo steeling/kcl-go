@@ -1,4 +1,4 @@
-module kcl-lang.io/kcl-go
+module github.com/steeling/kcl-go
 
 go 1.23
 
@@ -22,6 +22,7 @@ require (
 	google.golang.org/grpc v1.68.0
 	google.golang.org/protobuf v1.35.2
 	gopkg.in/yaml.v3 v3.0.1
+	kcl-lang.io/kcl-go v0.10.8
 	kcl-lang.io/lib v0.10.8
 )
 
