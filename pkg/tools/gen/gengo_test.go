@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/iancoleman/strcase"
-	"kcl-lang.io/kcl-go/pkg/tools/gen"
+	"github.com/steeling/kcl-go/pkg/tools/gen"
 )
 
 var _ = gen.GenGo
